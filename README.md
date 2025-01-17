@@ -1,2 +1,1 @@
-# function-assignment
-print("Arpt")
+
